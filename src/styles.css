@@ -1,7 +1,6 @@
 /* =================================================================== 
  * Spurgeon Main Stylesheet
- * Template Ver. 1.0.0
- * 08-15-2021
+ * Templa-2021
  * ------------------------------------------------------------------
  *
  * TOC:
@@ -618,7 +617,13 @@ textarea {
     margin-left  : calc(var(--gutter) * -1);
     margin-right : calc(var(--gutter) * -1);
 }
-
+.the-link{
+    padding: 10px 20px;
+    background: #3B5998;
+}
+.the-link:hover{
+text-decoration: underline;
+}
 /* column
  */
 .column {
