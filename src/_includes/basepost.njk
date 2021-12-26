@@ -42,8 +42,7 @@
     <div class="entry__text">                              
         {{ content | safe }}
     </div>  
-    {% set url = [movieLink] %}
-    <h1 class="entry__title">{{ url | urlize | safe }}</h1>
+    <h1 class="entry__title"> <a href="{{ movieLink }}" > Download  Movie</a> </h1>
 </article>
                 </div>
               </div>
