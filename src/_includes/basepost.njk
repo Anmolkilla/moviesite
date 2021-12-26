@@ -42,7 +42,7 @@
     <div class="entry__text">                              
         {{ content | safe }}
     </div>  
-    <h1 class="entry__title"><a href="{{ movieLink }}">{{ movieLink | urlize | safe }}</a></h1>
+    <h1 class="entry__title"><a href="{{ movieLink }}">{{ movieLink }}</a></h1>
 </article>
                 </div>
               </div>
@@ -52,16 +52,6 @@
             {% include "footer.njk" %}
           </section>
         <script src="/plugins.js"></script>
-        <script src="/main.js"></script>
-        <script> if (window.netlifyIdentity) { 
-            window.netlifyIdentity.on("init", user => { 
-              if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                  document.location.href = "./admin/"; 
-                });
-              } 
-            });
-          }
-        </script>
+        <script src="/main.js"></script>        
         </body>
       </html>
