@@ -11,7 +11,7 @@ collections:
     slug: "{{filetitle}}"
     fields:
     - { label: "Title For Page", name: "title", widget: "string" }  
-    - { label: "Movie Full Name", name: "movieName", widget: "string" }
+    - { label: "Movie Full Name", name: "movieName", widget: "string" , required:"false" }
     - { label: "Title For File", name: "filetitle", widget: "string" }
     - { label: "Author", name: "author", widget: "string" }
     - { label: "Category",
@@ -27,4 +27,4 @@ collections:
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
     - { label: "Movie Link", name: "movieLink", widget: "string" } 
-    - { label: "Body", name: "body", widget: "markdown" }
+    - { label: "Body", name: "body", widget: "markdown" , required:"false" }
