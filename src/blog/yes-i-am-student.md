@@ -8,7 +8,7 @@ date: 2021-12-26T18:48:38.981Z
 tags:
   - posts
   - movie
-image: /assets/blog/images.jpeg
+image: /assets/blog/yes-i-am-student-poster.jpeg
 imageAlt: Yes i am student
 movieLink: https://disk.yandex.com/i/0tEbsfravF-0tw
 ---
