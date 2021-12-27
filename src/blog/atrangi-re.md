@@ -12,4 +12,4 @@ image: /assets/blog/atrangi-re-poster.jpeg
 imageAlt: Atrangi Re
 movieLink: https://disk.yandex.com/i/lLtJfdpVNqAKMA
 ---
-1. Download Atrangi ReDod
+1. Download Atrangi Re Full Movie High Quality m Clear Audio
