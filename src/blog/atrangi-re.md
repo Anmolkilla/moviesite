@@ -1,5 +1,5 @@
 ---
-title: Download atrangi re Bollywood movie 2021 free
+title: Download atrangi re Bollywood movie 2021 free !
 movieName: Atrangi Re
 filetitle: atrangi-re
 author: Anmol
