@@ -24,6 +24,6 @@ Also Download The First Part - ***Harry Potter and the Philosopher's Stone***
 
 Link:  https://netblog.netlify.app/blog/harry-potter-and-the-philosophers-stone/
 
-Also Download The Third Part - ***Harry Potter and the Chamber of Secrets*** 
+Also Download The Third Part - ***Harry Potter and the Prisoner of Azkaban***
 
 Link:
