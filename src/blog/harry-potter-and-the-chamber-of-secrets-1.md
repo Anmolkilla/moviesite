@@ -8,7 +8,7 @@ date: 2021-12-28T05:18:46.117Z
 tags:
   - posts
   - movie
-image: /assets/blog/harry-potter2ndpart-poster.jpg
+image: /assets/blog/harry-potter3rpart-poster.jpg
 imageAlt: Harry Potter and the Prisoner of Azkaban
 movieLink: https://disk.yandex.com/i/8bD_H2eaJVkb1Q
 ---
