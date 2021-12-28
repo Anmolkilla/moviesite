@@ -12,7 +12,7 @@ image: /assets/blog/harry-potter2ndpart-poster.jpg
 imageAlt: Harry Potter and the Chamber of Secrets
 movieLink: https://disk.yandex.com/d/PIPEJGnSgmJ_RA
 ---
-**Download**  ***Harry Potter and the Chamber of Secrets** (* 2001 ) 
+**Download**  **Harry Potter and the Chamber of Secrets** (* 2001 ) 
 
 In **High Quality**
 
@@ -20,6 +20,10 @@ In Dual Audio ( HIndi & English )
 
 With Subtitles
 
-Also Download The Third Part
+Also Download The First Part - ***Harry Potter and the Philosopher's Stone***
 
-***Harry Potter and the Chamber of Secrets***
+Link:  https://netblog.netlify.app/blog/harry-potter-and-the-philosophers-stone/
+
+Also Download The Third Part - ***Harry Potter and the Chamber of Secrets*** 
+
+Link:
