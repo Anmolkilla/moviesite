@@ -12,7 +12,7 @@ image: /assets/blog/harry-potter2ndpart-poster.jpg
 imageAlt: Harry Potter and the Chamber of Secrets
 movieLink: https://disk.yandex.com/d/PIPEJGnSgmJ_RA
 ---
-**Download**  **Harry Potter and the Chamber of Secrets** (* 2001 ) 
+**Download**  **Harry Potter and the Chamber of Secrets** ( 2001 ) 
 
 In **High Quality**
 
