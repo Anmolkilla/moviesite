@@ -10,7 +10,7 @@ tags:
   - movie
 image: /assets/blog/harry-potter4thparrt-poster.jfif
 imageAlt: Harry Potter and the Goblet of Fire
-movieLink: https://disk.yandex.com/i/8bD_H2eaJVkb1Q
+movieLink: https://disk.yandex.com/i/6VgcQfVCNv1eZA
 ---
 **Download *Harry Potter and the Goblet of Fire*** ( 2001 ) 
 
