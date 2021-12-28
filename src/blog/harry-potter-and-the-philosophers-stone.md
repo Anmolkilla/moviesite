@@ -20,6 +20,6 @@ In Dual Audio ( HIndi & English )
 
 With Subtitles
 
-Also Download The Second Part
+Also Download The Second Part - **Harry Potter and the Chamber of Secrets**
 
-***Harry Potter and the Chamber of Secrets***
+Link:  <a href="https://netblog.netlify.app/blog/harry-potter-and-the-philosophers-stone/">Harry Potter and the Chamber of Secrets</a>
