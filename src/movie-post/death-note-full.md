@@ -13,7 +13,7 @@ tags:
 date: 2021-12-31T15:10:16.250Z
 draft: true
 tagsmovie:
-  - post
+  - posts
   - movie
 image: /assets/blog/images.jpeg
 imageAlt: Death Note Poster
