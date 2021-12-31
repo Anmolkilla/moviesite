@@ -63,4 +63,4 @@ collections:
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","another-tag-here"]}
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
-    - { label: "Body", name: "body", widget: "markdown, required:false}
+    - { label: "Body", name: "body", widget: "markdown", required:false}
