@@ -3,7 +3,7 @@ title: Download Death Note Full Series English Dub [ Episode 1 Added]
 filetitle: death-note-full
 author: Anmol
 releaseDate: "2006"
-movieName: Death Note Ep 1
+movieName: "Death Note Series "
 maxQuality: 720p
 languageAvailable: English Only
 category: Movie
