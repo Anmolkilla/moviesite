@@ -14,6 +14,9 @@ maxQuality: 720p
 languageAvailable: Hindi & English
 category: movie
 tags:
+  - posts
+  - movie
+geners:
   - Fantasy
   - Thriller
 date: 2021-12-31T06:31:29.586Z
