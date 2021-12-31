@@ -10,15 +10,15 @@ collections:
     create: true
     slug: "{{filetitle}}"
     fields:
-    - { label: "Title For Page", name: "title", widget: "string" }
-    - { label: "Title For File", name: "filetitle", widget: "string" }
-    - { label: "Author", name: "author", widget: "string" }
-    - { label: "Movie Release Date", name: "releaseDate", widget: "string" }
+    - { label: "Title For Page", name: "titlemovie", widget: "string" }
+    - { label: "Title For File", name: "filetitlemovie", widget: "string" }
+    - { label: "Author", name: "authormovie", widget: "string" }
+    - { label: "Movie Release Date", name: "releaseDatemovie", widget: "string" }
     - { label: "Movie Name", name: "movieName", widget: "string" }
     - { label: "Max Quality", name: "maxQuality", widget: "string" }
     - { label: "Languages", name: "languageAvailable", widget:"string", required:false}
     - { label: "Movie Geners",
-        name: "tags" ,
+        name: "tagsmovie" ,
         widget: "select" ,
         multiple: true ,
         min: 1,
@@ -34,13 +34,13 @@ collections:
                    "Thriller" 
                    ]
                 } 
-    - { label: "Date", name: "date", widget: "datetime" }
-    - { label: "Save as Draft", name: "draft", widget: "boolean", required:"false", default:"true"}
-    - { label: "Tags", name: "tags", widget: "list", default: ["post","movie","another-tag-here"]}
-    - { label: "Featured Image", name: "image", widget: "image" }
-    - { label: "Image Caption", name: "imageAlt", widget: "string" } 
-    - { label: "Movie Link", name: "movieLink", widget: "string" } 
-    - { label: "Body", name: "body", widget: "markdown", required:false}
+    - { label: "Date", name: "datemovie", widget: "datetime" }
+    - { label: "Save as Draft", name: "draftmovie", widget: "boolean", required:false, default:true}
+    - { label: "Tags", name: "tagsmovie", widget: "list", default: ["post","movie","another-tag-here"]}
+    - { label: "Featured Image", name: "imagmovie", widget: "image", required:false}
+    - { label: "Image Caption", name: "imageAltmovie", widget: "string", required:false}
+    - { label: "Movie Link", name: "movieLink", widget: "string", required:false}
+    - { label: "Body", name: "bodymovie", widget: "markdown", required:false}
   - name: "blog" 
     label: "Blog"
     folder: "src/blog"
@@ -61,6 +61,6 @@ collections:
     - { label: "Date", name: "date", widget: "datetime" }
     - { label: "Save as Draft", name: "draft", widget: "boolean", required:false, default:true}
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","another-tag-here"]}
-    - { label: "Featured Image", name: "image", widget: "image" }
-    - { label: "Image Caption", name: "imageAlt", widget: "string" } 
+    - { label: "Featured Image", name: "image", widget: "image", required:false}
+    - { label: "Image Caption", name: "imageAlt", widget: "string", required:false}
     - { label: "Body", name: "body", widget: "markdown", required:false}
