@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 movieLink: https://disk.yandex.com/i/6VgcQfVCNv1eZA
 title: Download Harry Potter and the Goblet of Fire ( 2004 ) in high quality
 filetitle: harry-potter-and-the-globlet-of-fire
@@ -9,7 +9,7 @@ date: 2021-12-28T05:36:49.308Z
 tags:
   - posts
   - movie
-image: /assets/blog/globetoffirepostet.jpeg
+image: /assets/blog/globetoffireposter.jpeg
 imageAlt: Harry Potter and the Goblet of Fire
 movieName: Harry Potter and the Goblet of Fire
 ---
