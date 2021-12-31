@@ -1,6 +1,7 @@
 ---
+draft: true
+movieLink: https://disk.yandex.com/i/6VgcQfVCNv1eZA
 title: Download Harry Potter and the Goblet of Fire ( 2004 ) in high quality
-movieName: Harry Potter and the Goblet of Fire
 filetitle: harry-potter-and-the-globlet-of-fire
 author: Anmol
 category: movie
@@ -8,9 +9,9 @@ date: 2021-12-28T05:36:49.308Z
 tags:
   - posts
   - movie
-image: /assets/blog/harry-potter4thparrt-poster.jfif
+image: /assets/blog/globetoffirepostet.jpeg
 imageAlt: Harry Potter and the Goblet of Fire
-movieLink: https://disk.yandex.com/i/6VgcQfVCNv1eZA
+movieName: Harry Potter and the Goblet of Fire
 ---
 **Download *Harry Potter and the Goblet of Fire*** ( 2001 ) 
 
