@@ -10,7 +10,7 @@ collections:
     create: true
     slug: "{{filetitle}}"
     fields:
-    - { label: "Title For Page", name: "titlemovie", widget: "string" }
+   
     - { label: "Body", name: "body", widget: "markdown", required:false}
   - name: "blog" 
     label: "Blog"
