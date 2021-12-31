@@ -12,9 +12,11 @@ releaseDate: 11 Nov 2010
 movieName: Harry Potter and the Deathly Hallows – Part 1
 maxQuality: 720p
 languageAvailable: Hindi & English
+category: movie
 tags:
-  - posts
-  - movie
+  - Fantasy
+  - Mystery
+  - Thriller
 date: 2021-12-31T06:31:29.586Z
 tagsmovie:
   - posts
