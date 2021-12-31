@@ -9,7 +9,7 @@ date: 2021-12-28T05:36:49.308Z
 tags:
   - posts
   - movie
-image: /assets/blog/globetoffireposter.jpeg
+image: /assets/blog/halfbloodprinceposter.jpeg
 imageAlt: Harry Potter and the Goblet of Fire
 movieName: Harry Potter and the Goblet of Fire
 ---
