@@ -1,0 +1,4 @@
+{
+    "layout": "moviepost.njk",
+    "tags": "posts,movie"
+}
