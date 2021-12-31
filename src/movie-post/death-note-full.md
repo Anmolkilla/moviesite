@@ -17,6 +17,6 @@ tagsmovie:
   - movie
 image: /assets/blog/images.jpeg
 imageAlt: Death Note Poster
-movieLink: Heleldbdn
+movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 ---
 ,
