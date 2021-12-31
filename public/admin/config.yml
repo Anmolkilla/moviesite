@@ -36,7 +36,7 @@ collections:
                    ]
                 } 
     - { label: "Date", name: "date", widget: "datetime" }
-    - { label: "Save as Draft", name: "draft", widget: "boolean", required:"false", default:"true"}
+    - { label: "Save as Draft", name: "draft", widget: "boolean", required:false, default:true}
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","movie","another-tag-here"]}
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
@@ -59,7 +59,7 @@ collections:
         "news" , "personal-development" ,
         "technology" , "travelling" ] } 
     - { label: "Date", name: "date", widget: "datetime" }
-    - { label: "Save as Draft", name: "draft", widget: "boolean", required:"false", default:"true"
+    - { label: "Save as Draft", name: "draft", widget: "boolean", required:false, default:true}
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","another-tag-here"]}
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
