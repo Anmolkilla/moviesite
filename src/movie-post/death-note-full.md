@@ -6,12 +6,13 @@ releaseDate: "2006"
 movieName: Death Note Ep 1
 maxQuality: 720p
 languageAvailable: English Only
+category: Movie
 tags:
-  - Mystery
-  - Thriller
-  - Fantasy
+  - posts
+  - movie
+geners: Mystery
 date: 2021-12-31T15:10:16.250Z
-draft: true
+draft: false
 tagsmovie:
   - posts
   - movie
