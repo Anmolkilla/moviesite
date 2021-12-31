@@ -2,6 +2,7 @@
     padding: 10px 20px;
     background: #0f0;
 border-radius:10px;
+margin:10px auto ;
 }
 .the-link:hover{
 text-decoration: underline;
