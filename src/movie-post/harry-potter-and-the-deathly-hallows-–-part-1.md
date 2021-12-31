@@ -15,7 +15,6 @@ languageAvailable: Hindi & English
 category: movie
 tags:
   - Fantasy
-  - Mystery
   - Thriller
 date: 2021-12-31T06:31:29.586Z
 tagsmovie:
