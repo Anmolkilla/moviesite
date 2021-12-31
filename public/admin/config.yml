@@ -16,10 +16,9 @@ collections:
     - { label: "Movie Release Date", name: "releaseDate", widget: "string" }
     - { label: "Movie Name", name: "movieName", widget: "string" }
     - { label: "Max Quality", name: "maxQuality", widget: "string" }
-    - { label: "Languages", name: "languageAvailable", widget: "string" }
-    - { label: "Lead Actors", name: "leadActors", widget: "string" }
+    - { label: "Languages", name: "languageAvailable", widget:"string", required:false}
     - { label: "Movie Geners",
-        name: "generes" ,
+        name: "tags" ,
         widget: "select" ,
         multiple: true ,
         min: 1,
@@ -36,11 +35,12 @@ collections:
                    ]
                 } 
     - { label: "Date", name: "date", widget: "datetime" }
-    - { label: "Save as Draft", name: "draft", widget: "boolean", required:false, default:true}
-    - { label: "Tags", name: "tags", widget: "list", default: ["posts","movie","another-tag-here"]}
+    - { label: "Save as Draft", name: "draft", widget: "boolean", required:"false", default:"true"}
+    - { label: "Tags", name: "tags", widget: "list", default: ["post","movie","another-tag-here"]}
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
-    - { label: "Body", name: "body", widget: "markdown" }
+    - { label: "Movie Link", name: "movieLink", widget: "string" } 
+    - { label: "Body", name: "body", widget: "markdown", required:false}
   - name: "blog" 
     label: "Blog"
     folder: "src/blog"
@@ -59,8 +59,8 @@ collections:
         "news" , "personal-development" ,
         "technology" , "travelling" ] } 
     - { label: "Date", name: "date", widget: "datetime" }
-    - { label: "Save as Draft", name: "draft", widget: "boolean", required:false, default:true}
+    - { label: "Save as Draft", name: "draft", widget: "boolean", required:"false", default:"true"
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","another-tag-here"]}
     - { label: "Featured Image", name: "image", widget: "image" }
     - { label: "Image Caption", name: "imageAlt", widget: "string" } 
-    - { label: "Body", name: "body", widget: "markdown" }
+    - { label: "Body", name: "body", widget: "markdown, required:false}
