@@ -20,6 +20,12 @@ image: /assets/blog/images.jpeg
 imageAlt: Death Note Poster
 movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 ---
-Episode 1  182.3 mb
+Episode 1  182.3 MB
 
-Episode 2 - 154.8 mb
+Episode 2 - 154.8 MB
+
+Epispde 3 - 141.5 MB
+
+Episode 4 - 142.9 MB
+
+Episode 5 - 132.9 MB
