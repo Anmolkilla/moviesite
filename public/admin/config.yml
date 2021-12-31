@@ -18,15 +18,7 @@ collections:
     - { label: "Movie Name", name: "movieName", widget: "string" }
     - { label: "Max Quality", name: "maxQuality", widget: "string" }
     - { label: "Languages", name: "languageAvailable", widget:"string", required:false}
-    - { label: "Category",
-        name: "category" ,
-        widget: "select" , 
-        options: [ "fashion" , 
-        "gaming" , "health" , 
-        "movie" , "music" , 
-        "news" , "personal-development" ,
-        "technology" , "travelling" ]
-        } 
+    - { label: "Category", name: "category" , widget: "string" , default:"movie" } 
     - { label: "Movie Geners",
         name: "tags" ,
         widget: "select" ,
