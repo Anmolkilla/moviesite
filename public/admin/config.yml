@@ -19,8 +19,9 @@ collections:
     - { label: "Max Quality", name: "maxQuality", widget: "string" }
     - { label: "Languages", name: "languageAvailable", widget:"string", required:false}
     - { label: "Category", name: "category" , widget: "string" } 
+    - { label: "Tags", name: "tags", widget: "list", default: ["posts","another-tag-here"]}
     - { label: "Movie Geners",
-        name: "tags" ,
+        name: "geners" ,
         widget: "select" ,
         multiple: true ,
         min: 1,
