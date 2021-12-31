@@ -1,5 +1,5 @@
 ---
-title: Download Death Note Full Series English Dub *[ Episode 1 to 5 Added]*
+title: Download Death Note Full Series English Dub [ Episode 1 to 5 Added]
 filetitle: death-note-full
 author: Anmol
 releaseDate: "2006"
