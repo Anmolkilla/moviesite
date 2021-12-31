@@ -9,7 +9,7 @@ date: 2021-12-28T10:37:46.150Z
 tags:
   - posts
   - movie
-image: /assets/blog/harry_potter_and_the_order_of_the_phoenix_poster.jpg
+image: /assets/blog/halfbloodprinceposter.jpeg
 imageAlt: Harry Potter and the Order of Pheonix
 movieName: Harry Potter and the Order of Pheonix
 ---
