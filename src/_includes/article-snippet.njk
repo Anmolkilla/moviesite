@@ -1,7 +1,7 @@
 {% for post in collections.posts | reverse | limit(limitValue) %}
 <article class="brick entry" data-animate-el>
     <div class="entry__thumb">
-        <a class="thumb-link">
+        <a href="{{ post.url }}" class="thumb-link">
             <img href="{{ post.url }}" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
         </a>
     </div>
