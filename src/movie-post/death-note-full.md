@@ -56,8 +56,8 @@ movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 
 ***Episode 17- 192.5 MB***
 
-***Epispde 18 - 141.5 MB***
+***Epispde 18 - 153.8 MB***
 
-***Episode 19 - 142.9 MB***
+***Episode 19 - 156.3 MB***
 
-***Episode 2 - 132.9 MB***
+***Episode 2 - 152.4 MB***
