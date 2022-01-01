@@ -40,11 +40,11 @@ movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 
 ***Episode 09 - 156.6 MB***
 
-***Episode 1 - 132.9 MB***
+***Episode 10 - 165.8 MB***
 
-***Episode 11 - 182.3 MB***
+***Episode 11 - 186.5 MB***
 
-***Episode 12 - 154.8 MB***
+***Episode 12 - 164.8 MB***
 
 ***Epispde 13 - 141.5 MB***
 
