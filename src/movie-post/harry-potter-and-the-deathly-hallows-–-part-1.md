@@ -16,7 +16,9 @@ category: movie
 tags:
   - posts
   - movie
-geners: Thriller
+geners:
+  - Fantasy
+  - Mystery
 date: 2021-12-31T06:31:29.586Z
 tagsmovie:
   - posts
