@@ -11,15 +11,8 @@ tags:
   - posts
   - movie
 geners:
-  - Fiction
   - Mystery
   - Thriller
-  - Drama
-  - Action
-  - Fantasy
-  - Comedy
-  - Science Fiction
-  - Novel
 date: 2021-12-31T15:10:16.250Z
 draft: false
 tagsmovie:
