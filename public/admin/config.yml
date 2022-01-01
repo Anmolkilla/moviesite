@@ -25,7 +25,7 @@ collections:
         widget: "select" ,     
         options: [ "Action" , 
                    "Comedy" ,
-                   "Fantasy" , 
+                   "Fiction" , 
                    "Drama" , 
                    "Fantasy" , 
                    "Horror" , 
