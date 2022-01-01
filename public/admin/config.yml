@@ -22,7 +22,8 @@ collections:
     - { label: "Tags", name: "tags", widget: "list", default: ["posts","movie","another-tag-here"]}
     - { label: "Movie Geners",
         name: "geners" ,
-        widget: "select" ,     
+        widget: "select" ,
+        multiple: true,
         options: [ "Action" , 
                    "Comedy" ,
                    "Fiction" , 
@@ -31,6 +32,8 @@ collections:
                    "Horror" , 
                    "Mystery" ,
                    "Romance" ,
+                   "Science Fiction",
+                   "Novel",
                    "Thriller" 
                    ]
                 } 
