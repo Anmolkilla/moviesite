@@ -20,7 +20,7 @@ image: /assets/blog/images.jpeg
 imageAlt: Death Note Poster
 movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 ---
-<a href="{{ movieLink }}" class="the-link" >Download  {{ movieName }}</a>
+<a href="{{ movieLink }}" class="the-link" >load  {{ movieName }}</a>
 
 ***Episode 1  - 182.3 MB***
 
