@@ -10,7 +10,10 @@ category: Movie
 tags:
   - posts
   - movie
-geners: Mystery
+geners:
+  - Fiction
+  - Mystery
+  - Thriller
 date: 2021-12-31T15:10:16.250Z
 draft: false
 tagsmovie:
@@ -20,7 +23,7 @@ image: /assets/blog/images.jpeg
 imageAlt: Death Note Poster
 movieLink: https://disk.yandex.com/d/IxMspZlFfb_NKw
 ---
-ass="the-l***Episode 1  - 182.3 MB***
+***Episode 1  - 182.3 MB***
 
 ***Episode 2 - 154.8 MB***
 
