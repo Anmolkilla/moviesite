@@ -1,21 +1,20 @@
   <!DOCTYPE html>
-  <html lang="en" class="no-js">
+  <html lang="en" class="js">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="tilte" content="{{ seoTitle }}" >
+    <meta name="description" content="{{ seoDescription }}" >
+    <meta name="author" content="{{ author }}" >
+    <meta name="keywords" content="{{ seoKeywords }}" >
     <title>Net Blog | {{ title }} </title>
-    <script>
-      document.documentElement.classList.remove('no-js');
-      document.documentElement.classList.add('js');
-    </script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="/vendor.css">
     </head>
   <body id="top">    
     <div id="page" class="s-pagewrap ss-home">
             {% include "header.njk" %} 
-            <h2>Download {{ movieName }} </h2>     
+                 
           <section id="content" class="s-content">          
             <div id="bricks" class="bricks">            
               <div class="masonry">             
@@ -23,6 +22,7 @@
                 <div class="grid-sizer"></div>
                   <article class="brick entry" data-animate-el>                  
                     <div class="entry__thumb">
+                    <h2>Download {{ movieName }} </h2>
                       <a href="{{ post.url }}" class="thumb-link"> 
                         <img class="movieimage" href="{{ post.url }}" src="{{ image }}" alt="{{ imageAlt }}">
                       </a>
@@ -36,18 +36,17 @@
                         <span class="byline"> 
                              By: <a href="#0">{{ author }} on {{ date | postDate }}</a>
                         </span> 
-                      </div>   
-                      
+                      </div>                         
                     </div>                      
-                  </div>
-    <div class="entry__text">                              
+                  </div> 
+                  <div class="entry__text">                              
     Download {{ movieName }} Released On {{ releaseDate }} in {{ maxQuality }} in {{ languageAvailable }}
-    </div>  
-    <a href="{{ movieLink }}" class="the-link" target="_blank" >Download {{ movieName }}</a>
+    </div>               
 </article>
                 </div>
                 {{ content | safe }}
-              </div>             
+              </div>
+              <a href="{{ movieLink }}" class="the-link" target="_blank" >Download {{ movieName }}</a>
             </div>
           </section>
             {% include "footer.njk" %}
