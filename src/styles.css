@@ -13,4 +13,7 @@ text-decoration: underline;
 .movieimage{
 margin:auto;
 }
+.headings{
+    font-family:var(--font-1);
+}
 @media screen and (max-width:400px){.comment-respond form{padding-top:var(--vspace-1)}}
