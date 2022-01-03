@@ -1,13 +1,13 @@
   <!DOCTYPE html>
-  <html lang="en" class="no-js">
+  <html lang="en" class="js">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Net Blog | {{ title }} </title>
-    <script>
-      document.documentElement.classList.remove('no-js');
-      document.documentElement.classList.add('js');
-    </script>
+    <meta name="tilte" content="{{ seoTitle }}" >
+    <meta name="description" content="{{ seoDescription }}" >
+    <meta name="author" content="{{ author }}" >
+    <meta name="keywords" content="{{ seoKeywords }}" >
+    <title>Net Blog | {{ title }} </title>    
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="/vendor.css">
@@ -51,7 +51,7 @@
 
             {% include "footer.njk" %}
           </section>
-        <script src="/plugins.js"></script>
-        <script src="/main.js"></script>        
+        <script src="/plugins.js" defer ></script>
+        <script src="/main.js" defer ></script>        
         </body>
       </html>
