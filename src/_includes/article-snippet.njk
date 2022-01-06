@@ -1,4 +1,5 @@
-{% for post in collections.posts | reverse | limit(limitValue) %}
+{% for post in collections.posts | reverse %}
+{% for post in range(0, 5) %}
 <article class="brick entry" data-animate-el>
     <div class="entry__thumb">
         <a href="{{ post.url }}" class="thumb-link">
@@ -22,4 +23,5 @@
        
     </div>                         
 </article>
+{% endfor %}
 {% endfor %}
